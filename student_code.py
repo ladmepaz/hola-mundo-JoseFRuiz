@@ -15,7 +15,8 @@ def add(a, b):
     :return: Sum of a and b
     """
     # TODO: Complete the function to return the sum of a and b
-    return None  # Replace with your implementation
+    s = a+b
+    return s  # Replace with your implementation
 
 
 def is_prime(n):
